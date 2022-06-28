@@ -1,4 +1,4 @@
-function Actions() {
+const Actions = () => {
     return (
         <div className="actions">
           {/* Font Awesome icons */}

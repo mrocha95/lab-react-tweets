@@ -1,4 +1,4 @@
-function ProfileImage(props) {
+const ProfileImage = (props) => {
     return (
         <img
           src= {props.image}

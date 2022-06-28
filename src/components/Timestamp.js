@@ -1,4 +1,4 @@
-function Timestamp(props) {
+const Timestamp = (props) => {
     return (
         <span className="timestamp">{props.time}</span>
     );
